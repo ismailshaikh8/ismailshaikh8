@@ -4,7 +4,7 @@
 </p>
 
 
-  <img align="right" alt="Coding" width="330" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhnNWJ3czR4MDIwcXVxbDd2Z2tpbG9ocW9tdnpzMW05cWd2Nm10biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Man coding at desk" width="300" />
+  <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhnNWJ3czR4MDIwcXVxbDd2Z2tpbG9ocW9tdnpzMW05cWd2Nm10biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Man coding at desk" width="300" />
 </br>
 
 -  I’m a **Data Engineer**
